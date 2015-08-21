@@ -15,4 +15,4 @@ Docker化Jenkins
 
 - 运行容器
 
-        docker run -d -it --name jenkins -p 8080:8080 docker-apache
+        docker run -d -it --name jenkins -p 8080:8080 docker-jenkins
